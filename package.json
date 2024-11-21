@@ -1,0 +1,14 @@
+{
+  "name": "vitest-pool-workers-repro",
+  "version": "1.0.0",
+  "packageManager": "pnpm@9.12.3",
+  "devDependencies": {
+    "@cloudflare/vitest-pool-workers": "0.5.27",
+    "@cloudflare/workers-types": "4.20241112.0",
+    "hono": "^4.6.11",
+    "typescript": "5.5.4",
+    "vite": "5.4.11",
+    "vitest": "2.1.5",
+    "wrangler": "3.85.0"
+  }
+}
